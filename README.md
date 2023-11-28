@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![Project snapshot](image-galery.gif)
+![Project snapshot](image-gallery.gif)
 [Image Galery Live Page](https://esmaaksoy.github.io/Project-Bootstrap-2/)
 
 ## Tech/framework used
