@@ -29,7 +29,7 @@
 
 ![Project snapshot](./image-gallery.gif)
 
-[Image Galery Live Page](https://esmaaksoy.github.io/Project-Bootstrap-2/)
+[Image Galery Live Page](https://velvety-capybara-b13135.netlify.app/)
 
 ## Tech/framework used
 
