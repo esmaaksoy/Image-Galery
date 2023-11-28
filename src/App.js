@@ -1,9 +1,10 @@
-
+import Image from "./image";
+import data from "./data"
 function App() {
   return (
-    <div>
-     
-    </div>
+    <main>
+  <Image data={data} />
+    </main>
   );
 }
 
