@@ -1,8 +1,7 @@
 # Image Gallery
 
-## Description
-
-Project aims to create an image gallery app.
+## Project Aim
+*My goal in this project is to create a web page using react at a basic level.*
 
 ## Project Skeleton
 
@@ -28,13 +27,11 @@ Project aims to create an image gallery app.
 
 ## Screenshots
 
-![Project snapshot](./image galery.gif)
-
+![Project snapshot](image-galery.gif)
+[Image Galery Live Page](https://esmaaksoy.github.io/Project-Bootstrap-2/)
 
 ## Tech/framework used
 
 <b>Built with</b> <br>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
 
-## Project Aim
-*My goal in this project is to create a web page using react at a basic level.*
